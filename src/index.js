@@ -1,6 +1,14 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: liupf
+ * @Date: 2020-12-15 22:01:02
+ * @LastEditors: liupf
+ * @LastEditTime: 2020-12-15 22:24:40
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
